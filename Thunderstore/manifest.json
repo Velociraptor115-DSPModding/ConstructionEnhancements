@@ -1,0 +1,9 @@
+{
+  "name": "ConstructionEnhancements",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Velociraptor115-DSPModding/ConstructionEnhancements",
+  "description": "Allows to drag-build tesla towers and other buildings",
+  "dependencies": [
+      "xiaoye97-BepInEx-5.4.11"
+  ]
+}
